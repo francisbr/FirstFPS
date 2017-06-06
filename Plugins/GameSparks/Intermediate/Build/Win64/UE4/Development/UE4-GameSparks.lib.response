@@ -1,0 +1,9 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+"D:\Unreal Engine\Projects\FirstFPS\Plugins\GameSparks\Intermediate\Build\Win64\UE4\Development\GameSparks\PCH.GameSparks.h.obj"
+"D:\Unreal Engine\Projects\FirstFPS\Plugins\GameSparks\Intermediate\Build\Win64\UE4\Development\GameSparks\Module.GameSparks.cpp.obj"
+"D:\Unreal Engine\Projects\FirstFPS\Plugins\GameSparks\Intermediate\Build\Win64\UE4\Development\GameSparks\GameSparks.generated.1.cpp.obj"
+"D:\Unreal Engine\Projects\FirstFPS\Plugins\GameSparks\Intermediate\Build\Win64\UE4\Development\GameSparks\GameSparks.generated.2.cpp.obj"
+/OUT:"D:\Unreal Engine\Projects\FirstFPS\Plugins\GameSparks\Binaries\Win64\UE4-GameSparks.lib"

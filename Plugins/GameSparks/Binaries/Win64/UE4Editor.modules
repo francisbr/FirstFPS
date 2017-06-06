@@ -1,0 +1,10 @@
+{
+	"Changelist" : 3416026,
+	"CompatibleChangelist" : 3299760,
+	"BuildId" : "84329c3f-5b18-4606-9bf0-f6ab785d15bc",
+	"Modules" : 
+	{
+		"GameSparks" : "UE4Editor-GameSparks.dll",
+		"OnlineSubsystemGameSparks" : "UE4Editor-OnlineSubsystemGameSparks.dll"
+	}
+}

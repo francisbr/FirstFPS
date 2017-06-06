@@ -1,0 +1,7 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x86
+/SUBSYSTEM:WINDOWS
+"D:\Unreal Engine\Projects\TestGameSparks\Plugins\GameSparks\Intermediate\Build\Win32\UE4\Development\OnlineSubsystemGameSparks\PCH.OnlineSubsystemGameSparks.h.obj"
+"D:\Unreal Engine\Projects\TestGameSparks\Plugins\GameSparks\Intermediate\Build\Win32\UE4\Development\OnlineSubsystemGameSparks\Module.OnlineSubsystemGameSparks.cpp.obj"
+/OUT:"D:\Unreal Engine\Projects\TestGameSparks\Plugins\GameSparks\Binaries\Win32\UE4-OnlineSubsystemGameSparks.lib"
